@@ -48,6 +48,11 @@ img {
   font-size: 40px;
 }
 
+#about, #portfolio, #contact {
+  background-color: #808080;
+  padding: 50px 50px;
+}
+
 span.border {
   background-color: #808080;
   color: #000;
