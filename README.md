@@ -1,4 +1,4 @@
-# Eleven_23_Studios
+# Eleven 23 Studios
 
 Repo for the website for a creative showcase for my wife and myself called eleven23studios.com 
 
